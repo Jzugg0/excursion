@@ -7,11 +7,12 @@ html{
 }
 p{
   font-size: 18px;
-  
+  color: green;
 
 }
 h3{
   color: grey;
+  font-size: 30px;
 }
 h1{
   font-size: 60px;
